@@ -153,8 +153,8 @@ export function Globe() {
           style={{
             width: '2000px',
             height: '2000px',
-            WebkitMaskImage: `url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 9V15M9 12H15' stroke='black' stroke-width='1.5' /%3E%3C/svg%3E")`,
-            maskImage: `url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 9V15M9 12H15' stroke='black' stroke-width='1.5' /%3E%3C/svg%3E")`,
+            WebkitMaskImage: `url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 9V15M9 12H15' stroke='black' stroke-width='0.75' /%3E%3C/svg%3E")`,
+            maskImage: `url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 9V15M9 12H15' stroke='black' stroke-width='0.75' /%3E%3C/svg%3E")`,
             WebkitMaskSize: '56px 56px',
             maskSize: '56px 56px',
             WebkitMaskPosition: 'center center',
