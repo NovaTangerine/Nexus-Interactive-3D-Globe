@@ -168,10 +168,10 @@ export function Globe() {
               width: '600px',
               height: '600px',
               borderStyle: 'solid',
-              borderColor: 'rgba(79, 70, 229, 1)', // Richer, deeper Indigo
+              borderColor: 'rgba(67, 56, 202, 1)', // Even richer, deeper Indigo
               '--start-border': '3px',
               '--end-border': '1px',
-              background: 'radial-gradient(circle, transparent 0%, rgba(219,39,119,0.05) 30%, rgba(219,39,119,0.3) 65%, rgba(192,38,211,0.85) 88%, rgba(79,70,229,1) 100%)',
+              background: 'radial-gradient(circle, transparent 0%, rgba(190,24,93,0.1) 30%, rgba(190,24,93,0.5) 65%, rgba(162,28,175,0.95) 88%, rgba(67,56,202,1) 100%)',
               animationDelay: '0s',
             } as React.CSSProperties}
           />
@@ -182,10 +182,10 @@ export function Globe() {
               width: '600px',
               height: '600px',
               borderStyle: 'solid',
-              borderColor: 'rgba(79, 70, 229, 1)', // Richer, deeper Indigo
+              borderColor: 'rgba(67, 56, 202, 1)', // Even richer, deeper Indigo
               '--start-border': '3px',
               '--end-border': '1px',
-              background: 'radial-gradient(circle, transparent 0%, rgba(219,39,119,0.05) 30%, rgba(219,39,119,0.3) 65%, rgba(192,38,211,0.85) 88%, rgba(79,70,229,1) 100%)',
+              background: 'radial-gradient(circle, transparent 0%, rgba(190,24,93,0.1) 30%, rgba(190,24,93,0.5) 65%, rgba(162,28,175,0.95) 88%, rgba(67,56,202,1) 100%)',
               animationDelay: '2.5s',
             } as React.CSSProperties}
           />
